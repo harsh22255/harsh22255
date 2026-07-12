@@ -1,32 +1,230 @@
-# 💫 About Me:
-## <br><br>✨ I'm Harshdeep Singh, a Third-Year Computer Science Engineering student passionate about building impactful software and solving real-world problems.<br><br>- 🔭 I’m currently working on **Full Stack MERN Applications, Flutter Apps, and AI-powered Projects**<br>- 🌱 I’m currently learning **System Design, Next.js, DevOps, and Advanced DSA**<br>- 👯 I’m looking to collaborate on **Open Source, Full Stack, AI, and Flutter Projects**<br>- 🤝 I’m looking for help with **Cloud Computing, Backend Scalability, and System Design**<br>- 💬 Ask me about **C++, DSA, React, Node.js, Express.js, Flutter, Firebase, MongoDB, and REST APIs**<br>- 🏆 Solved **300+ LeetCode Problems** and actively participate in hackathons<br>- 🚀 Core Tech Team Member at **Google Developer Groups (GDG)**<br>- 📫 Reach me at **harshdeepsingh6602@gmail.com**<br>- 🌐 Portfolio: **https://harshdeep1212.netlify.app**<br>- ⚡ Fun fact: **I enjoy turning ideas into scalable applications and believe consistency is the key to becoming a great software engineer.**
+<div align="center">
 
+<img src="./assets/banner.png" width="100%" alt="Harshdeep Singh Banner"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshdeepsingh270506) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshdeepsingh6602@gmail.com) 
+# 👋 Hi, I'm Harshdeep Singh
 
-![snake gif](https://github.com/harsh22255/harsh22255/blob/output/github-contribution-grid-snake-dark.svg)
+### 🚀 Full Stack MERN Developer • Flutter Developer • AI Enthusiast
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Third+Year+Computer+Science+Student;Full+Stack+MERN+Developer;Flutter+Developer;AI+Enthusiast;300%2B+LeetCode+Problems;Open+Source+Contributor"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=harsh22255&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=harsh22255&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harsh22255&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harsh22255&theme=default&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://linkedin.com/in/harshdeepsingh270506">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="mailto:harshdeepsingh6602@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harsh22255&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+<a href="https://harshdeep1212.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/harsh22255">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=harsh22255&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
 
+```cpp
+Name        : Harshdeep Singh
 
+College     : JIIT Noida
+
+Degree      : B.Tech Computer Science
+
+Year        : Third Year
+
+Current Focus:
+• MERN Stack
+• Flutter
+• Artificial Intelligence
+
+Learning:
+• Next.js
+• DevOps
+• System Design
+• Advanced DSA
+
+Achievements:
+✓ 300+ LeetCode Problems
+✓ GDG Core Tech Team
+✓ Hackathon Participant
+✓ Open Source Contributor
+
+Email:
+harshdeepsingh6602@gmail.com
+```
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,react,nextjs,nodejs,express,mongodb,mysql,firebase,flutter,git,github,vscode,figma,linux"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harsh22255&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh22255&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=harsh22255&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh22255&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/harsh22255/harsh22255/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/harsh22255/harsh22255/output/github-contribution-grid-snake.svg">
+
+<img alt="Snake Animation"
+src="https://raw.githubusercontent.com/harsh22255/harsh22255/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="./assets/localconnect.png"/>
+
+### 🌍 LocalConnect
+
+Hyperlocal Skill Exchange Platform
+
+**Tech**
+
+MERN • JWT • Maps API • Firebase
+
+</td>
+
+<td width="50%">
+
+<img src="./assets/healtrack.png"/>
+
+### ❤️ HealTrack
+
+AI-powered Healthcare Companion
+
+**Tech**
+
+Flutter • AI • Firebase
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="./assets/focusprep.png"/>
+
+### 📚 FocusPrep
+
+Pomodoro Productivity App
+
+**Tech**
+
+Flutter • Firebase • Charts
+
+</td>
+
+<td>
+
+<img src="./assets/carracing.png"/>
+
+### 🏎️ Car Racing Game
+
+C++ Graphics Project
+
+**Tech**
+
+C++ • BGI Graphics
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Achievements
+
+🥇 300+ LeetCode Problems
+
+🥈 Google Developer Groups Core Tech Team
+
+🥉 Full Stack MERN Developer
+
+🏅 Flutter Developer
+
+🏅 AI Project Builder
+
+---
+
+# 💡 Quote
+
+> **"Consistency beats intensity. Build something every single day."**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=harsh22255&label=Profile%20Views&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### Happy Coding 🚀
+
+</div>

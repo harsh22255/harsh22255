@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshdeepsingh270506) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshdeepsingh6602@gmail.com) 
 
-
+![snake gif](https://github.com/harsh22255/harsh22255/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 # 💻 Tech Stack:
@@ -29,4 +29,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/harsh22255/harsh22255/blob/output/github-contribution-grid-snake.svg)
+
